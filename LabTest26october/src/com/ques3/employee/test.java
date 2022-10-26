@@ -1,6 +1,7 @@
-/*Employee Details 
+/*
+ * Employee Details 
  * @Author: Abhishek Raj
-@Date: 26 oct 2022*/
+ * @Date: 26oct 2022*/
 
 //creating packages
 package com.ques3.employee;
@@ -10,7 +11,6 @@ public class test {
 
 	// main method
 	public static void main(String[] args) {
-
 		// calling Get Details method
 		Employee.GetDetails();
 

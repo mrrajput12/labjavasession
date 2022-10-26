@@ -1,6 +1,7 @@
-/*Employee Details
- *@author: Abhishek Raj
-@Date: 26 oct 2022*/
+/*
+ * Employee Details
+ * @Author: Abhishek Raj
+ * @Date: 26oct 2022*/
 
 //creating packages
 package com.ques3.employee;
@@ -39,4 +40,4 @@ public class Employee {
 		System.out.println("Department: " + department);
 		System.out.println("Salary: " + salary);
 	}// end of print details method
-}// end of classpackage com.ques3;
+}// end of class
